@@ -1,0 +1,2 @@
+# FirebaseSkeletonProject
+Created with CodeSandbox
